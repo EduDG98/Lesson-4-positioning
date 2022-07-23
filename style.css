@@ -1,0 +1,48 @@
+body {}
+
+.grand-dad {
+    margin: 0px;
+    padding: 40px;
+    width: 500px;
+    background-color: burlywood;
+
+
+}
+
+
+.dad {
+    background-color: aquamarine;
+    width: 500px;
+
+
+}
+
+.son {
+    background-color: rgb(235, 25, 154);
+    position: absolute;
+    left: 0;
+    top: 100px;
+    right: 0;
+
+}
+
+.line {
+    background-color: lime;
+    width: 5px;
+    height: 2000px;
+}
+
+.page {
+    padding: 1em;
+    background-color: darkgoldenrod;
+    height: 50px;
+    position: sticky;
+    top: 10px;
+}
+
+/*
+.word {
+    background-color: violet;
+    position: sticky;
+    top: 50px
+}*/
